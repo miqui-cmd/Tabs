@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+
+section {
+    border-radius: 5px;
+    background-color: rgb(183, 182, 182);
+    text-align: center;
+}
+
+
+.tabs {
+    display: flex;
+    justify-content: space-between;
+    margin:10px;
+}
+
+.tab:hover {
+    color: aliceblue;
+    transition: 0.2s;
+}
+
+.tab1:hover {
+    color: aliceblue;
+    transition: 0.2s;
+}
+
+.tab2:hover {
+    color: aliceblue;
+    transition: 0.2s;
+}
+
+.tab {
+    cursor: pointer;
+}
+
+.tab1 {
+    cursor: pointer;
+}
+
+.tab2 {
+    cursor: pointer;
+}
